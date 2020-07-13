@@ -22,13 +22,13 @@
 
 * `apt update`
 * `apt install git curl php openssh -y`
-* `git clone git://github.com/arbind-cyber/aphisher.git`
-* `cd aphisher`
-#### > Run : `bash aphisher.sh`
+* `git clone git://github.com/arbind-cyber/wave.git`
+* `cd wave`
+#### > Run : `bash wave.sh`
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh -y ; git clone git://github.com/arbind-cyber/aphisher.git ; cd aphisher ; bash aphisher.sh
+apt update ; apt install git curl php openssh -y ; git clone git://github.com/arbind-cyber/wave.git ; cd wave ; bash wave.sh
 ```
 <br>
 <p align="center">
@@ -56,8 +56,8 @@ apt update ; apt install git curl php openssh -y ; git clone git://github.com/ar
 #### > LOCALHOSTRUN (https://localhost.run)
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/tahmid.rayat)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/tahmid.rayat.official)
+[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/arbind-cyber)
+[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/arbind.das.127201)
 
 
