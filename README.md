@@ -5,20 +5,22 @@
 <p align="center">
 <a href="#"><img title="subscribe" src="https://raw.githubusercontent.com/arbind-cyber/Wave/master/subscribe.png"></a>
 </p>
+<B>This video is only education purpose.Pease subscribe like and share then more hacking video</B>
+
 
 ## Installation :
 
 * `apt update`
 * `git clone https://github.com/Zucccs/PhoneSploit`
-* ls
-* cd PhoneSploit
-* ls
-* pkg install python2
-* pip2 install colorama
-* ls
-* apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh -q && bash InstallTools.sh
-* ls
-* python2 main_linux.py
+* `ls`
+* `cd PhoneSploit`
+* `ls`
+* `pkg install python2`
+* `pip2 install colorama`
+* `ls`
+* `apt update > /dev/null 2>&1 && apt --assume-yes install wget > /dev/null 2>&1 && wget https://github.com/MasterDevX/Termux-ADB/raw/master/InstallTools.sh -q && bash InstallTools.sh`
+* `ls`
+* `python2 main_linux.py`
 <p align="center">
 <img width="51%" src=" https://raw.githubusercontent.com/arbind-cyber/Wave/master/subscribe.png "/>
 </p>
